@@ -3,4 +3,8 @@
 
 ## Special Thanks...
 
-I am starting the project with Fist Full of Shrimp's VR template: https://www.youtube.com/watch?v=VaWmvZme8hk
+I am starting the project with Fist Full of Shrimp's VR template: 
+
+Overview Video: https://www.youtube.com/watch?v=VaWmvZme8hk
+
+Starting repo: https://github.com/Fist-Full-of-Shrimp/FFOS-Unity-VR-Template
